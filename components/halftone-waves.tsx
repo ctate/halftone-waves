@@ -72,4 +72,3 @@ export default function Component() {
 
   return <canvas ref={canvasRef} className="w-full h-screen bg-black" />
 }
-
